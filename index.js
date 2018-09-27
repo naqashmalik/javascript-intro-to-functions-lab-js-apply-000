@@ -19,5 +19,5 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-    return "I can't hear you!"
+    return "I love you too!!"
 }
